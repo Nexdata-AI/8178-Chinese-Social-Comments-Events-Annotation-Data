@@ -3,7 +3,7 @@
 ## Description
 8,178 Chinese social comments annotated data. The contents are hot news in 2013. Each piece of news contains one or more events and is annotated with time, theme, cause, procedure and result. The data is stored in xml and can be used for natural language understanding.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/83?source=Github
+For more details, please refer to the link:https://www.nexdata.ai/datasets/nlu/83?source=Github
 
 
 # Specifications
